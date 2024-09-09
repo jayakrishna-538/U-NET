@@ -17,10 +17,6 @@
 
 This repository contains minimalistic implementation of U-Net that is introduced in the paper [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) using PyTorch. Implementation has tested using [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) by Kaggle.
 
-### YouTube Tutorial
-This repository also contains a corresponding YouTube tutorial with the title **Implement and Train U-NET From Scratch for Image Segmentation - PyTorch**
-
-[![Thumbnail](./assets/neww_thumb.png)](https://www.youtube.com/watch?v=HS3Q_90hnDg&t=10s)
 
 ## Table of Contents
 * [U-Net Implementation](#vitimp)
@@ -162,5 +158,4 @@ You must give your data directory and the directory you want to save your model 
 
 By the end of the training your model will be saved into the `MODEL_SAVE_PATH`.
 
-## Contact <a class="anchor" id="contact"></a>
-You can contact me with this email address: uygarsci@gmail.com
+
