@@ -1,19 +1,6 @@
 ## U-Net Implementation With PyTorch
 
-<div align="center">
-    <a href="">
-        <img alt="open-source-image"
-        src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
-    </a>
-</div>
-<br/>
-<div align="center">
-    <p>Liked our work? give us a ⭐!</p>
-</div>
 
-<p align="center">
-  <img src="./assets/U.png" height="70%%" width="70%%"/>
-</p>
 
 This repository contains minimalistic implementation of U-Net that is introduced in the paper [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) using PyTorch. Implementation has tested using [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) by Kaggle.
 
